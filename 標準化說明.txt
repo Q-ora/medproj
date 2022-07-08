@@ -1,0 +1,18 @@
+df_all：不重複病歷
+df_dic：詞庫
+df_symtom：五群症狀轉換
+
+dic_dict = df_dic.to_dict()
+
+AC自動機：多字串匹配
+
+
+
+39行：如果原始症狀有出現在詞庫中，將對應位置換成底線
+
+問題：
+    22行~31行 格式? 
+    sym[1]為tuple(key,詞)
+
+    34行 為什麼要用dic_simple的index
+    不重複標準化_新.csv沒有剩餘句？

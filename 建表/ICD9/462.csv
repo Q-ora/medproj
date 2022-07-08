@@ -1,0 +1,232 @@
+流水號,就醫日,生日,病歷號,性別,主訴,客觀,診斷,中文主訴,中文客觀
+48,890818.0,6111.0,94446,F,"cough , nasal discharge for 1 wk , no fever, AP for 36 wks.",congestion of oropharynx 脈滑舌紅苔白,462,咳嗽，流鼻涕1週，無發熱，APP36週。,口咽部充血脈滑舌紅苔白苔
+94,890822.0,5110.0,41375,F,"sorthroat is onset, but others sign are subsided.",脈浮舌紅苔薄,462,sorthroat 發作，但其他症狀消退。,脈浮舌紅苔薄
+111,890822.0,7907.0,13134,F,"nasal discharge, nasal obstrction for 1 day, no fever, headack.",congestion of oropharynx 脈浮舌紅苔薄,462,流鼻涕，鼻塞1天，無發熱，頭痛。,口咽部充血脈浮舌紅苔薄薄
+145,890817.0,5912.0,34656,F,"cough , sorthroat for 3 ms, no fever, headack.",congestion of oropharynx 脈滑舌紅苔白薄，,462,咳嗽，喉嚨痛 3 毫秒，不發燒，頭痛。,口咽部充血脈滑舌紅苔白薄，
+232,890817.0,5907.0,09067,M,"dry throuat , for 2 wks, no fever.",congestion of oropharynx 脈浮舌淡紅虛腫苔白薄，口乾失眠,462,咽乾，2週，無發熱。,口咽充血 脈舌淡紅腫虛白薄薄，口乾浮幹
+236,890817.0,3111.0,36640,F,"cough with white sputum for 5 ms, no fever, no sorthraot. ( B hepatitis history for 6 years )",脈浮舌紅苔薄，,462,咳白痰5ms，無發熱，無雜色。 （乙肝病史6年）,脈浮舌紅苔薄，
+244,890823.0,5801.0,37657,F,"sorthroat, sputum for 3 days, no fever, no headack.",congestion  of pharynx 脈浮舌淡紅苔白薄，失眠,462,喉嚨痛，痰3天，不發燒，不頭痛。,脈浮舌淡紅白薄，pharynx充血
+250,890822.0,5302.0,80333,F,"sorthroat, sputum for 5 days, has been fever,",脈浮舌紅苔白，口乾失眠便秘,462,喉嚨痛，痰5天，一直發燒，,脈舌紅白，口乾舌苔
+350,890825.0,7002.0,90889,F,"dry throuat for 1 wk, no fever, sorthroat, cough, sputum,  ",congestion of oropharynx 脈浮舌紅苔白，口乾 ,462,咽乾1週，無發熱，咽痛，咳嗽，咳痰，,口咽充血脈浮舌紅苔白，口乾
+353,890817.0,5203.0,57506,F,"cough for 10 years, no fever,",congestion of orophanx 脈浮舌紅虛腫苔白，稀便,462,咳嗽10年，不發燒，,脈浮舌紅虛腫苔白，稀便充血
+370,890824.0,3208.0,41269,F,"headack, cough, sputum, no fever,for 3 days,  ",congestion of oropharynx 脈沈舌紅苔白，胃痛 ,462,頭痛，咳嗽，咳痰，不發燒，3天，,口咽充血脈沉舌紅苔白、胃痛
+469,890824.0,6709.0,21281,F,"cough , sorthroat, nasal obstruction for 3 days, no fever, no headack. ",congestion of oropharynx 脈浮舌紅苔白薄 ,462,咳嗽，喉嚨痛，鼻塞3天，不發燒，不頭痛。,口咽部充血脈浮舌紅苔白薄
+470,890824.0,4511.0,24621,M,"cough sputum for 4days, no fever,no headack. ",congestion of oropharynx 脈浮舌紅苔白薄 ,462,咳痰4天，不發燒，不頭痛。,口咽部充血脈浮舌紅苔白薄
+578,890824.0,7704.0,29726,M,"cough , sputum for 1 wk, no fever, no headack.",congestion of orophanx 脈浮舌紅苔白，,462,咳嗽，咳痰1週，無發熱，無頭痛。,脈浮舌紅苔白充血，
+614,890817.0,6706.0,48108,F,"headack , for 1 day, no fever, no trauma.",congestion of oropharynx 脈浮舌紅苔白薄，口乾失眠胃痛,462,頭痛，1天，無發熱，無外傷。,口腔幹舌充血 脈浮舌紅苔白薄，口咽咽乾痛
+692,890825.0,8301.0,06662,F,"nasal obstruction , nasal discharge, for  2 years, no fever, no headack. ",congestion of oropharynx 脈浮舌紅 ,462,鼻塞，流鼻涕，2年，不發熱，不頭痛。,口咽部充血脈浮舌紅
+735,890829.0,8610.0,91419,M,"cough for 3 days, fever, no diarrhea. ",coongestion of oropharynx 脈浮舌紅苔薄 ,462,咳嗽3天，發熱，無腹瀉。,口咽充血脈浮舌紅苔薄
+741,890829.0,7605.0,54994,F,"nasal discharge, throat, no fever, no headack,",congestion of oropharynx 脈浮舌紅苔薄，口乾,462,流鼻涕，喉嚨痛，不發燒，不頭痛，,口咽部充血脈浮舌紅苔薄，口乾
+800,890817.0,5006.0,89795,F,"horsness for 1 wk, no fever, no sorthrat.",congestion of oropharynx  脈浮舌紅苔白，失眠,462,聲音嘶啞1週，無發熱，無分色。,咽部充血脈浮舌紅苔白，沿著
+869,890829.0,4103.0,19491,F,"isomnia , cough , sputum  for 4 years, no fever.  ",congestion of oropharynx 脈浮舌紅苔白， ,462,失眠、咳嗽、咳痰4年，無發熱。,口咽部充血脈浮舌紅苔白，
+898,890824.0,5507.0,73476,F,"cough, headack, sputum , for 10 days, no fever.  ",congestion of oropharynx 脈浮舌紅苔白，口乾便秘 ,462,咳嗽，頭痛，咳痰，連續10天，無發熱。,口咽部充血脈浮舌紅苔白，口乾顯示
+946,890829.0,8508.0,65112,F,"erythema of periorbital region for  2 days, no fever. ","tenderness , redness over the left periorbital region. 脈浮舌紅苔薄 ",462,眶周紅斑2天，無發熱。,壓痛，左側眶週區域發紅。脈浮舌紅苔薄
+1144,890829.0,7209.0,69234,M,"cough for 6 ms, no fever, no headack,  ",congestion of oropharnx 脈浮舌紅苔白薄， ,462,咳嗽 6 毫秒，不發燒，不頭痛，,口咽部充血脈浮舌紅苔白薄，
+1245,890829.0,5402.0,03424,F,"dry thraot, for 3wks. sorthroat, no fever, no sputum.  ",congestion of oropharynx 脈浮舌紅苔薄，口乾 ,462,喉嚨乾燥，持續 3 週。喉嚨痛，沒有發燒，沒有痰。,口咽部充血脈浮舌紅苔薄，口乾
+1275,890829.0,4105.0,27220,F,"neck pain for 1 day, no fever, no cough. ",congestion of oropharynx  脈浮緊舌紅苔白，胃痛 ,462,頸部疼痛1天，不發燒，不咳嗽。,口咽充血脈浮緊舌紅苔白，胃痛
+1298,890823.0,3702.0,52026,F,"pain over peri-orbital region and neck pain for 1wk, no fever, no nasal discharge.",congestion of oropharynx 脈浮舌紅苔白，,462,眶週痛，頸痛1週，無發熱，無鼻涕。,口咽部充血脈浮舌紅苔白，
+1364,890831.0,3201.0,64597,F,"nasal discharge for 4 days, no fever, no headack.",脈浮大舌紅苔薄，,462,流鼻涕4天，不發燒，不頭痛。,脈浮大舌紅苔薄，
+1523,890831.0,1110.0,36659,F,"cough is noted, no sorthroat.",脈浮大舌紅苔薄，口乾,462,咳嗽是注意到，沒有sorthroat。,脈浮大舌紅苔薄，口乾
+1534,890829.0,7610.0,13613,F,"sorthroat, cough, sputum for 3 days.  ",congestion of oropharynx 脈浮緊舌紅苔薄， ,462,咳嗽、咳痰3天。,口咽部充血脈浮緊，舌紅苔薄，
+1754,890829.0,1501.0,14945,M,"cough, dry throuat, for 10 days. ",congestion of oropharynx 脈浮舌紅苔白，口乾口苦便秘 ,462,咳嗽，咽乾，10天。,口咽部充血脈浮舌紅苔白，口乾口苦不適
+1761,890829.0,8405.0,83417,F,"pain ulceration for 3 years, no fever, sorthraoat,  ",multiple ulceration of oropharynx 脈浮舌紅苔薄 ,462,疼痛潰爛3年，不發燒，喉嚨痛，,口咽多發性潰瘍 脈浮舌紅苔薄
+1859,890830.0,2709.0,08798,F,"headack , cough , for 2 ms , no fever, no sorthroat .",cogestion of oropharynx 脈浮緩舌紅苔白，,462,頭痛，咳嗽，持續 2 毫秒，沒有發燒，沒有喉嚨痛。,口咽阻塞，脈浮緩，舌紅苔白，
+2281,890905.0,3802.0,49203,F,"nasal obstraction , sorthroat, cough, no fever, for 1 m. ",congestion of oropharnyx 脈浮舌紅苔白，口乾,462,鼻塞，喉嚨痛，咳嗽，不發燒，持續1m。,口咽充血脈浮舌紅苔白，口乾
+2310,890830.0,2305.0,87039,M,"cough sorthroat for 3 days, nasal discharge is noted too, no fever,  ",congestion of oropharynx 脈浮大舌紅苔白厚，口乾 ,462,咳嗽喉嚨痛3天，也有鼻涕，沒有發燒，,口咽充血脈浮大舌紅苔白厚，口乾
+2320,890831.0,4511.0,73778,F,"ulceration of the orophaynx, no fever,for 2 wks",small oral ulcer under lips.,462,口咽部潰瘍，2週不發熱,嘴唇下的小口腔潰瘍。
+2894,890823.0,6301.0,48654,F,"cough, sorthroat, sputum for 2 ms, no fever, no headack.",congestion of oropharynx 脈沈舌紅苔薄，口乾,462,咳嗽，喉嚨痛，咳痰2ms，不發燒，不頭痛。,口咽部充血脈沉舌紅苔薄，口乾
+3180,890907.0,5403.0,31582,M,Postnasal dripping for yrs.,Congestion of pharynx.,462,鼻後滴水多年。,咽部充血。
+3462,890913.0,4803.0,83363,F,"sorthroat and dry thraot, for 3 days,  ",congestion of orophaynx 口乾舌紅苔薄 ,462,sorthroat 和 dry thraot，持續 3 天，,口咽充血 口乾舌紅苔薄薄
+3757,890913.0,8210.0,06156,M,"cough , sorthroat, dry throat, for 1 day, no fever,  ",congestion of oropharynx. 舌紅苔薄脈浮 ,462,咳嗽，喉嚨痛，喉嚨幹，1天，不發燒，,口咽部充血。舌紅苔薄脈浮
+4136,890913.0,5607.0,66044,F,"cough and sputum for 1 year, no fever.  ",congestion of oropharynx 舌紅苔白薄，脈浮 ,462,咳嗽咳痰1年，無發熱。,口咽部充血舌紅苔白薄，脈浮
+4687,890831.0,6605.0,17691,M,"cough for 3 wks , no fever.  ",congestion of oropharynx 脈浮緩舌紅虛腫苔白，口乾 ,462,咳嗽三週，不發燒。,口咽部充血 脈浮緩舌紅 虛腫白，口乾
+4695,890831.0,5504.0,14096,F,"dry throat, cough, sputum for 4 years, no fever, no headack.(B hepatitis for 10 rears) ",congestion of oropharynx. 脈浮緩舌紅苔白班剝  ,462,咽乾、咳嗽、咳痰4年，不發熱，不頭痛。（乙肝10次）,口咽部充血。脈浮緩舌紅苔白班剝
+6113,890920.0,5301.0,15119,F,SORE THORAT  COUGH WITH SPUTUM CHILLNESS AND FEVER ULCER OVER THOORAT,脈浮;舌苔紅; ,462,喉嚨痛咳嗽，痰寒，發燒，喉嚨有潰瘍,脈浮; 舌苔紅;
+6499,890918.0,2901.0,81975,F,Cough with loose whitish sputum .,脈濡數;舌苔白滑膩;,462,咳嗽伴有鬆散的白色痰。,脈濡數；舌苔白滑膩；
+7425,890921.0,3806.0,20064,F,SORE THORAT cough WIITH SPUTUM RHINORRHEA HEADACH,脈弦滑數;舌苔紅;,462,喉嚨痛咳嗽伴痰濕性頭痛,脈弦滑數；舌苔紅；
+7723,890927.0,7911.0,78294,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA 4 DAYS,脈弦;舌苔紅;,462,輕微喉嚨痛咳嗽伴痰液鼻漏 4 天,脈弦；舌苔紅；
+7780,890928.0,4010.0,20097,F,SORE THORAT VERTIGO  FOR 3-4 DAYS,脈弦滑數;舌苔紅;,462,喉嚨痛眩暈 3-4 天,脈弦滑數；舌苔紅；
+7784,890928.0,5601.0,08716,M,SLIGHT SORE THORAT cough WIITH SPUTUM NASAL OBSTRUCTION FOR 2-3 DAYS,脈浮數;舌苔白質紅   PH;     G6 PD,462,輕微的喉嚨痛咳嗽伴有痰鼻阻塞 2-3 天,脈浮數; 舌苔白質紅 PH; G6 PD
+7936,890927.0,8101.0,55607,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION,舌苔紅;脈浮;,462,輕微的喉嚨痛咳嗽伴有痰液鼻塞鼻塞,舌苔紅; 脈浮;
+7940,890928.0,4508.0,20361,F,SEVERE SORRE THORAT NASAL OBSTRUCTION RHINORRHEA 2-3 DAYS COUGH WITH           SPUTUM RHINORRHEA,脈弦;舌苔白質紅; ,462,嚴重喉嚨痛鼻塞鼻漏 2-3 天咳嗽伴有痰液鼻漏,脈弦；舌苔白質紅；
+8295,890922.0,8602.0,13596,F,RHINORRHEA COUGH POOR APPETITEE SOORE THRORAT,舌苔紅; ,462,鼻漏 咳嗽 食慾不振 喉嚨痛,舌苔紅;
+8415,890923.0,3604.0,18201,F,"pain over the left face and left head for 2 days, no fever, cough onset yesterday.",oropharynx are congestion ,462,左臉左頭痛2天，不發燒，昨天咳嗽。,口咽部充血
+9697,890928.0,4206.0,86491,F,"cough, nasal discharge for 1 wk, no fever. isomnia is noted too. (B hepatitis for 10 years)",congestion of orophayrnx 脈浮舌紅苔薄,462,咳嗽，流鼻涕1週，無發熱。失眠是有註意的。 （BE肝炎10年）,口咽充血脈浮舌紅苔薄
+9915,890928.0,2508.0,56694,M,"cough , nasal discharge, sputum in recent 3 days. no fever, no headack.",congestion of orophaynx.  脈浮大舌紅苔黃,462,最近 3 天咳嗽、流鼻涕、咳痰。不發燒，不頭痛。,口咽部充血。脈浮大舌紅苔黃
+10043,890926.0,5703.0,90176,F,SORE THORAT RHINORRHEA NASAL OBSTRUCTION HEADACH VERTIGO,脈細數;舌苔白滑膩;,462,喉嚨痛 鼻漏 鼻塞 頭痛 眩暈,脈細數;舌苔白膩滑;
+10116,891002.0,5610.0,75268,F,目溢;口乾;目澀; INSOMNIA OVER10 YEARS COTIPATIONNS SORE THORAT ULCER OVER MOUTH,脈弱;舌苔紅; ,462,目溢;口乾;目澀;失眠 10 年以上 便秘 喉嚨痛 口腔潰瘍,脈弱; 舌苔紅;
+10980,891016.0,4902.0,74023,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION,脈濡數;舌苔黃膩;,462,輕微的喉嚨痛咳嗽伴有痰液鼻塞鼻塞,脈濡數；舌苔黃膩；
+13156,890808.0,3801.0,31501,F,"cough for 4 days, LBP",congestion of oropharynx 脈浮舌紅苔白,462,咳嗽四天，腰痛,口咽部充血脈浮舌紅苔白
+13499,890810.0,8107.0,21809,M,"cough, nasal discharge for 1kws",脈浮舌紅苔白， congestion of oropharynx,462,咳嗽，流鼻涕1kws,脈浮舌紅苔白，口咽部充血
+13635,890810.0,6503.0,11821,F,"cough rhinorrea,thorat, for 1 wk.",congestion of oropharynx. 脈滑舌紅苔白，口乾月事延後,462,咳嗽流鼻涕，喉嚨痛，1週。,口咽部充血。脈滑舌紅苔白，口乾月事後延
+13653,890810.0,4712.0,09449,F,"uceratio of oropharynx, gastric pain for 1 kw,",uceration over the tongue. 脈滑舌紅絳苔薄，,462,口咽部潰瘍，胃痛1千瓦，,舌頭上的潰瘍。脈滑舌紅絳苔薄，
+13663,890810.0,4111.0,03804,F,cough headack for 1 day,congestion ofr oropharynx 脈浮舌紅腫苔薄，,462,咳嗽頭痛1天,口咽部充血脈浮舌紅腫苔薄，
+13692,890811.0,7510.0,78390,M,"headack, rhinorrea, cough, no fever for 5 days.",congestion of oropharynx  脈浮舌紅苔白，口乾,462,頭痛，流涕，咳嗽，5天不發燒。,口咽充血脈浮舌紅苔白，口乾
+13787,890811.0,4411.0,49594,F,"chillness, dry theoat, for 2 days. ",congestion of oropharynx. 脈浮大舌紅苔白，口乾失眠月事提前,462,感冒，咽乾，2天。,口咽部充血。脈大舌紅白提前，口乾月事提前
+13986,890811.0,4311.0,42833,F,"dry throuat, cough for 2m , no fever.",congestion of oropharynx 脈滑舌紅苔薄,462,咽乾，咳嗽2m，無發熱。,口咽部充血脈滑舌紅苔薄薄
+14053,890817.0,3202.0,02060,F,"cough with white sputum for 10 days, no fever, no headack.",congestion of oropharynx  脈浮舌紅苔薄，口乾,462,咳白痰10天，不發熱，不頭痛。,口咽部充血脈浮舌紅苔薄，口乾
+14162,890815.0,8212.0,28635,M,cough with whit sputum for 6 years no fever.,congestion of oropharyx. 脈浮,462,咳白痰6年無發熱。,口咽部充血。脈浮
+14302,890817.0,5505.0,24231,F,"headack, for 3 days, no fever, no trauma.",脈弦舌紅苔白薄，口乾失眠月事延後,462,頭痛，連續3天，無發熱，無外傷。,脈弦舌紅苔薄，口乾月事延後
+14329,890817.0,4205.0,90170,F,"headack, nasal obstraction for 1 wks, no fever.",congestion of oropharynx 脈浮舌紅苔白薄，口乾失眠 ,462,頭痛，鼻塞1週，無發熱。,脈浮舌紅苔白薄，口乾舌燥
+14386,890811.0,2607.0,04499,M,"cough withwhite sputum, for 1 year.",congestion of oropharynx 脈浮舌紅苔白，口乾,462,咳白痰，1年。,口咽充血脈浮舌紅苔白，口乾
+14917,890817.0,6808.0,80778,F,"dry throuat , sputum for 1 kw, no fever.",congestion of oropharynx 脈浮舌紅苔白薄，口乾,462,咽乾，痰1千瓦，無發熱。,口咽部充血脈浮舌紅苔白薄，口乾
+15002,890815.0,7807.0,70005,F,"cough, dry throut, rhinorrea, for 4 days, no fever,constipation.",congestion oforaopharynx 脈浮舌紅苔白，,462,咳嗽，口乾，流鼻涕，4天，無發熱，便秘。,口咽充血脈浮舌紅苔白，
+15083,890824.0,2802.0,35633,M,"chest stress, headack for 3 days, no fever.",congestion of oropharynx 脈浮舌紅苔白,462,胸悶，頭痛3天，無發熱。,口咽部充血脈浮舌紅苔白
+15094,890815.0,8212.0,03724,F,chough and rhinorrea for 6 years,congestion ofr oropharynx 脈浮,462,chough 和 rhinorrea 6 年,口咽部充血脈浮
+15116,890818.0,5201.0,37502,F,"fever, dry htrouat, sputum, cough, for 1 wk.",congestion of oropharynx 脈滑舌紅苔薄，口乾失眠,462,發熱、咽乾、咳痰、咳嗽，1週。,脈舌紅苔薄，口乾舌乾滑
+15248,890817.0,5001.0,76076,M,"cough with yellow sputum for 2 days, no fever, throuat, headack. ",congestion of oropharynx 脈浮舌紅苔白薄，,462,咳黃痰2天，無發熱，咽痛，頭痛。,口咽部充血脈浮舌紅苔白薄，
+15410,890818.0,6001.0,74418,F,"nasal discharge, nasal obstraction ,headack , fever, cough,for 1 day.",congestion of oropharynx  脈緊舌紅苔白薄，口乾稀便,462,流涕，鼻塞，頭痛，發熱，咳嗽，1天。,口咽充血脈緊舌紅苔白薄，口乾稀便
+15438,890822.0,6209.0,88050,F,"pain over the back and dysfunctional of uterine bleefing for 1/2 m , cough, sorthroat, sweeting,",congestion of oropharynx 脈滑舌紅苔白，,462,背部疼痛和功能失調的子宮出血 1/2 m ，咳嗽，喉嚨痛，出汗，,口咽部充血脈滑舌紅苔白，
+16624,891011.0,6902.0,65041,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION ITCHING OVER THORAT 3 DAYS,;脈細數;舌苔紅;,462,輕微的喉嚨痛咳嗽伴有痰液鼻塞鼻塞胸部瘙癢 3 天,; 脈細數; 舌苔紅;
+19603,891030.0,2809.0,94380,M,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION OVER 3 DAYS,目溢;目花;脈濡數;舌苔紅;,462,3 天以上輕微喉嚨痛咳嗽伴痰液鼻塞,目溢;目花;脈濡數;舌苔紅;
+22353,891013.0,2505.0,70963,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION   SUDDEN ONSET 2-3 DAYS,脈細數;舌苔紅;,462,輕微的喉嚨痛咳嗽伴有痰液鼻塞鼻塞突然發作 2-3 天,脈細數; 舌苔紅;
+22617,891106.0,2802.0,05165,M,"rhinitis,痰黏稠喉乾",舌紅苔白膩少津脈滑數,462,鼻炎、咳痰、喉嚨幹,舌紅苔白膩少津脈滑數
+26193,891103.0,5505.0,18466,M,SLIGHT SORE THORAT WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION OVER ONE WEEK,目癢;脈浮數;舌苔紅;,462,SLIGHT SORE THORAT WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION OVER ONE WEEK,目癢;脈浮數;舌苔紅;
+29975,891120.0,5602.0,44100,M,感冒，喉嚨癢甚，痰少甚黏，食慾平，昨夜溲頻，足心汗多。身熱口乾，眠淺，煩渴引飲。身倦。不時乾咳。,脈浮數,462,感冒，喉嚨癢甚，痰少甚黏，食慾平，昨夜溲頻，足心汗多。身熱口乾，眠淺，煩渴引飲。身倦。不時乾咳。,脈浮數
+30915,891117.0,3408.0,10023,F,"咳嗽多日,有痰咳不出,痰黃,咽癢欲咳,流鼻涕,","脈沉弦,舌質紅,苔薄白",462,"咳嗽多日,有痰咳不出,痰黃,咽癢欲咳,流鼻涕,","脈沉弦,舌質紅,苔薄白"
+33448,891127.0,3311.0,61303,F,cough with sputum rhinorrhea sore thora   for 5 days,脈濡數;舌苔白質紅;,462,咳嗽有痰流涕咽痛5天,脈濡數；舌苔白質紅；
+38542,891212.0,4903.0,81749,F,SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND LUMBAGO  SINCE LAST NIGHT,脈浮數;舌苔白質紅;,462,自從昨晚以來，喉嚨痛咳嗽伴有痰液鼻塞鼻塞和腰痛,脈浮數; 舌苔白質紅;
+38839,891211.0,5510.0,72033,M,SLIGHT SORE THORAT cough WIITH SPUTUM   for 2-3 days,脈濡數;舌苔白質紅;,462,輕微喉嚨痛咳嗽帶痰 2-3 天,脈濡數；舌苔白質紅；
+40142,891211.0,6711.0,24715,F,SORE THORAT cough WIITH  slight SPUTUM RHINORRHEA NASAL OBSTRUCTION for 3 days,脈浮數;舌苔紅; vertigo,462,喉嚨痛咳嗽伴輕微痰液鼻塞 3 天,脈浮數; 舌苔紅;眩暈
+45043,891229.0,3612.0,86475,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  since yesterday,脈浮數;舌苔紅;,462,從昨天開始有輕微的喉嚨痛咳嗽伴有痰液鼻塞,脈浮數; 舌苔紅;
+45075,891222.0,5911.0,84616,M,"sorethroat, cough and mild fever for 7",舌淡苔白微膩 脈浮細,462,喉嚨痛，咳嗽和輕度發燒 7,舌淡苔白微膩 脈浮細
+47067,900103.0,6705.0,46726,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION 3-4 DAYS,脈浮數;舌苔紅;,462,輕微的喉嚨痛咳嗽伴有痰液鼻塞鼻塞 3-4 天,脈浮數; 舌苔紅;
+47220,900105.0,1507.0,72219,M,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION in the midnight for 4 days,脈濡數;舌苔白質紅;,462,半夜輕微喉嚨痛咳嗽伴痰液鼻塞4天,脈濡數；舌苔白質紅；
+48343,891226.0,2701.0,48549,M,cough with sputum rhinorrhea nasal obstruction SORE THORAT FOR 3 DAYS,脈濡數;舌苔黃膩;,462,咳嗽有痰 鼻漏 鼻塞 喉嚨痛 3 天,脈濡數；舌苔黃膩；
+48629,900102.0,4404.0,64365,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION for 3 dayys,脈浮數;舌苔白質紅;,462,輕微喉嚨痛咳嗽伴痰液鼻塞鼻塞 3 天,脈浮數; 舌苔白質紅;
+50761,900108.0,8306.0,86882,M,NASAL OBSTRUCTION COUHH WITH     RHINORRHEA NASAL OBSTRUCTION FOR 3 DAYS,脈弦;舌苔白;,462,NASAL OBSTRUCTION COUHH WITH     RHINORRHEA NASAL OBSTRUCTION FOR 3 DAYS,脈弦;舌苔白;
+52566,900112.0,5002.0,06958,M,dripping nasal discharge   SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION for 2 days,npc and chemical and radio treatment 脈濡數;舌苔白;,462,流鼻涕 輕微喉嚨痛咳嗽伴痰液鼻塞 2 天,npc和化學和放射治療脈濡數;舌苔白;
+53314,900117.0,2601.0,92352,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION FOR8 DAYS,口乾;口苦;目澀;脈濡數;舌苔白質紅;,462,輕微咽痛咳嗽伴痰液鼻塞8天,口乾；口苦；目澀；脈濡數；舌苔白質紅；
+56289,900122.0,6106.0,04312,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION itching over thorat for 3-4 days,脈浮數;舌苔紅;,462,咳嗽伴有痰液鼻塞鼻塞喉嚨發癢 3-4 天,脈浮數; 舌苔紅;
+56841,900122.0,6301.0,94697,F,HEADACH  SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION FOR 1.5 DAYS,脈浮數;舌苔紅;,462,頭痛 咽痛 咳嗽 痰 鼻漏 鼻塞 1.5 天,脈浮數; 舌苔紅;
+57638,900122.0,3206.0,44389,M,cough with sputum rhinorrhea nasal obstruction FOR 5 DAYS,脈浮數;舌苔白質紅;,462,咳嗽有痰流鼻塞5天,脈浮數; 舌苔白質紅;
+58734,900118.0,6803.0,87280,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION FOR ONE YEAR,脈浮數;舌苔紅;,462,輕微咽喉痛咳痰鼻塞一年,脈浮數; 舌苔紅;
+58848,900130.0,4810.0,11108,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION itching over thorat for 5 days,脈細數;舌苔紅;,462,咳嗽伴有痰液鼻塞鼻塞喉嚨癢5天,脈細數; 舌苔紅;
+60680,900201.0,8303.0,94   ,F,cough WIITH SPUTUM  NASAL OBSTRUCTION for2-3 days,舌苔紅;,462,咳痰鼻塞2-3天,舌苔紅;
+61315,900201.0,7001.0,90594,F,cough WIITH SPUTUM  NASAL OBSTRUCTION  for 2-3 days,脈弦滑數;舌苔白質紅;,462,咳痰鼻塞2-3天,脈弦滑數；舌苔白質紅；
+62488,900122.0,5908.0,38903,F,SLIGHT SORE THORAT cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION for2 days,脈浮數;舌苔紅;,462,輕微咽痛咳嗽伴痰液鼻塞 2 天,脈浮數; 舌苔紅;
+62925,900207.0,3011.0,24300,F,咳嗽咽癢 鼻水二天 ,"舌紅,苔白黃 脈沉弱",462,咳嗽咽癢 鼻水二天 ,"舌紅,苔白黃 脈沉弱"
+64053,900223.0,3901.0,60237,F,RHINORRHEA NASAL OBSTRUCTION headach  soreness oover body  for 1 days,脈浮數;舌苔白質紅;,462,RHINORRHEA 鼻塞 頭痛 全身酸痛 1 天,脈浮數; 舌苔白質紅;
+66705,900214.0,2112.0,30101,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION for 3-4 days,脈細數;舌苔紅;,462,咳嗽伴有痰液鼻塞 3-4 天,脈細數; 舌苔紅;
+67942,900221.0,4209.0,79591,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND ITCHING OVER THORAT SINCE LJAST NIGHT,脈浮數;舌苔白質紅;,462,從昨晚開始咳嗽，伴有痰液鼻漏鼻塞和喉嚨發癢,脈浮數; 舌苔白質紅;
+70695,900223.0,5307.0,81037,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION and chest pain for 4 days,脈浮數;舌苔紅;,462,咳痰鼻塞胸痛4天,脈浮數; 舌苔紅;
+72067,900228.0,6311.0,74421,F,涕出鼻水咽痛多夢頭暈 ,淡津紅點 脈弦 ,462,涕出鼻水咽痛多夢頭暈 ,淡津紅點 脈弦 
+72738,900305.0,3508.0,95874,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  FOR1.5 DAYS AND VERTIGO,脈浮數;舌苔白質紅;,462,咳痰鼻塞1.5天眩暈,脈浮數; 舌苔白質紅;
+74994,900313.0,8611.0,06177,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION since yeesterday,舌苔紅;,462,從昨天開始咳嗽伴有痰液鼻塞,舌苔紅;
+77489,900319.0,5701.0,77113,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  AND SEVERE THORAT FOR 7 DAYS,脈細數;舌苔白質紅;,462,咳痰鼻塞鼻塞重度咽喉7天,脈細數; 舌苔白質紅;
+79386,900326.0,3001.0,79468,F,cough withOUT  sputum rhinorrhea nasal obstruction  FOR 2 DAYS VERY THIRSTY AND INSOMNIA TINNITUS AND CHEEST TIGHTNESS,脈弦滑數;舌苔紅;,462,咳嗽無痰 鼻漏 鼻塞 2 天 口渴失眠 耳鳴胸悶,脈弦滑數；舌苔紅；
+79922,900320.0,4105.0,71179,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND ITCHING OVER NOSE FOR 2 DAYS,脈浮數;舌苔紅;,462,咳痰鼻塞鼻癢2天,脈浮數; 舌苔紅;
+80831,900321.0,4912.0,83205,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  AND SORE THORAT FOR 4-5 YEARS,脈浮數;舌苔紅;,462,咳痰鼻塞和喉嚨痛4-5年,脈浮數; 舌苔紅;
+80929,900321.0,4204.0,88408,F,cough WIITH SPUTUM NASAL OBSTRUCTION  for 1 days,脈浮數;舌苔紅;,462,咳痰鼻塞1天,脈浮數; 舌苔紅;
+84223,900402.0,4706.0,26036,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND  VERY THIRSTY SINCE YESTEERDAY,NPC FOR IO YEARS 脈浮數;舌苔紅;,462,咳嗽伴有痰液鼻塞鼻塞，從昨天開始就很渴,NPC FOR IO YEARS 脈浮數;舌苔紅;
+84843,900328.0,6402.0,81729,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION SINCE YESTERDAY,脈細數;舌苔紅;,462,從昨天開始咳嗽伴有痰液鼻塞鼻塞,脈細數; 舌苔紅;
+85901,900419.0,4802.0,84615,F,"鼻塞, 流清焍, 聲啞, 口乾, 耳痛",脈浮緊 舌淡紅苔白,462,"鼻塞, 流清焍, 聲啞, 口乾, 耳痛",脈浮緊 舌淡紅苔白
+86333,900414.0,5606.0,35725,F,"產后二個月, 感冒, 咳, 鼻塞,  咽微痛, 微怕冷, 易腰酸 ,便硬",脈浮緊 舌紅苔白,462,"產后二個月, 感冒, 咳, 鼻塞,  咽微痛, 微怕冷, 易腰酸 ,便硬",脈浮緊 舌紅苔白
+86418,900414.0,6303.0,91135,F,"頭痛, 痰多 ,咳不出, 晨咳,  晨惡寒 咽乾",脈浮緊 舌淡紅苔白,462,"頭痛, 痰多 ,咳不出, 晨咳,  晨惡寒 咽乾",脈浮緊 舌淡紅苔白
+86548,900403.0,4206.0,45455,F,soreneess over upper shoulders COUGH AND RHINORRHEA for one week,脈濡數;舌苔紅;,462,上肩酸痛咳嗽流鼻涕一周,脈濡數；舌苔紅；
+86824,900403.0,5202.0,66668,M,cough WIITH SPUTUM   HINORRHEA FOR 3-4 DAYS,脈浮數;舌苔白質紅;,462,咳嗽痰淋病 3-4 天,脈浮數; 舌苔白質紅;
+89067,900419.0,3608.0,91958,F,"咽痛, 涕倒流, 鼻塞,  胸悶, 口乾, 頭重 ",脈弦數弱 舌淡紅苔白乾,462,"咽痛, 涕倒流, 鼻塞,  胸悶, 口乾, 頭重 ",脈弦數弱 舌淡紅苔白乾
+89104,900414.0,4807.0,95970,F,"鼻塞, 流清, 怕冷, 咽乾, 咽痛, 胸悶 納可, 二便可, 頭痛,",脈細弱,462,"鼻塞, 流清, 怕冷, 咽乾, 咽痛, 胸悶 納可, 二便可, 頭痛,",脈細弱
+89240,900420.0,2908.0,69083,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  and sore thorat for 2 days,脈浮數;舌苔紅;,462,咳嗽伴有痰液鼻塞和喉嚨痛 2 天,脈浮數; 舌苔紅;
+93254,900501.0,3502.0,21403,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION for 2 days,脈浮數;舌苔白質紅;,462,咳痰鼻塞2天,脈浮數; 舌苔白質紅;
+95935,900418.0,3403.0,23409,F,cough WIITH SPUTUM  SLIGHT SORE THORATR YELLOWISH               HINORRHEA NASAL OBSTRUCTION FOR ONE WEEK,脈浮;舌苔紅;,462,咳嗽 痰 輕微 喉嚨痛 黃色 鼻漏 鼻塞 1 週,脈浮; 舌苔紅;
+97381,900430.0,7408.0,74052,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION and sjlight sore thorat for 6 days,口乾;脈浮數;舌苔紅;,462,咳嗽伴有痰液鼻塞和輕微喉嚨痛6天,口乾; 脈浮數; 舌苔紅;
+97888,900502.0,1601.0,19222,M,"cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  thirsty for 1-2 daysvertyigo ,blurring vision ","dm , hypertension   for 15 yeears脈浮數;舌苔白質紅; ",462,咳嗽 痰 鼻塞 口渴 1-2 天 眩暈 視力模糊,dm，高血壓15年脈浮數；舌苔白質紅；
+98685,900508.0,5811.0,45316,F,"咽痛, 痰黃, 流黃涕, 鼻塞, 咽癢咳",脈浮細數 舌紅苔白,462,"咽痛, 痰黃, 流黃涕, 鼻塞, 咽癢咳",脈浮細數 舌紅苔白
+99868,900507.0,7803.0,92774,M,RT SIDE NECK PAIN PALPABLE LYMPH NODE FOR 1-2 DAYS AND SLIGHT SORE THORAT  cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND MUCOID DIARRHEA  SINCE  YEESTERDAY,脈浮;;舌苔白質紅; ,462,RT 頸部疼痛可觸及淋巴結 1-2 天和輕微的胸痛咳嗽，伴有痰液鼻塞鼻塞和粘液性腹瀉，從昨天開始,脈浮;;舌苔白質紅;
+100875,900509.0,5711.0,56941,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND YELLOWISH NASAL DISCHARGE SINCE YESTERDAY,脈細數;舌苔白質紅;,462,從昨天開始咳嗽伴有痰液鼻塞鼻塞和淡黃色鼻涕,脈細數; 舌苔白質紅;
+101117,900507.0,2712.0,55046,F,cough WIITHOUT SPUTUM RHINORRHEA NASAL OBSTRUCTION  AND ITCHING OVER THORAT FOR ONE WEEK AND PITTING EDEMA OVER BOTH FEET,脈濡數;舌苔紅;,462,咳嗽無痰 鼻漏 鼻塞，喉嚨發癢 1 週，雙腳凹陷性水腫,脈濡數；舌苔紅；
+102706,900509.0,2208.0,31420,F,cough WIITH SPUTUM  FOR 4 DAYS INSOMNIA AND VERY THIRSTY,GASTRIC CA OP  脈浮數;舌苔紅;,462,咳嗽帶痰 4 天失眠，口渴,GASTRIC CA OP 脈浮數；舌苔紅；
+103030,900509.0,5007.0,62491,M,NASAL OBSTRUCTION  口乾 for2 days; and neck  stiffness and pain off and on for a long time,脈浮數;舌苔白質紅;,462,鼻塞口乾2天；脖子僵硬和疼痛斷斷續續很長一段時間,脈浮數; 舌苔白質紅;
+103875,900514.0,1903.0,10069,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION off and on for 3-4 days vertigo,脈浮數;舌苔白質紅;,462,咳嗽伴有痰液鼻塞，斷斷續續，持續 3-4 天眩暈,脈浮數; 舌苔白質紅;
+104260,900515.0,2207.0,93657,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  AND SLIGHT SORE THORAT FOR 2 DAYS,脈浮;舌苔紅;,462,咳痰鼻塞鼻塞輕微咽痛2天,脈浮; 舌苔紅;
+105303,900516.0,6710.0,38599,F,"sore throat, 怕冷, for 1 day",左脈烰緊 右脈寸關浮緊 舌淡苔白,462,喉嚨痛，怕冷，1天,左脈烰緊 右脈寸關浮緊 舌苔淡白
+105935,900521.0,4411.0,32774,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND SLLIGHT SORE THORAT FOR 8 DAYS,脈浮數;舌苔紅;,462,咳痰鼻塞鼻塞輕微咽痛8天,脈浮數; 舌苔紅;
+106035,900518.0,3304.0,04735,F,cough WIITH bloody   SPUTUM RHINORRHEA NASAL OBSTRUCTION  and slight sore thorat for 3 days,脈弦滑數;舌苔白質紅;,462,咳嗽帶血痰鼻塞和輕微喉嚨痛 3 天,脈弦滑數；舌苔白質紅；
+107081,900521.0,2202.0,50130,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION4 days,口乾;脈浮數;舌苔紅;,462,咳嗽伴有痰液鼻塞 4 天,口乾; 脈浮數; 舌苔紅;
+108685,900528.0,2409.0,50850,F,heeavy hearing   cough WIITH SPUTUM RHINORRHEA   and sore thoratOBSTRUCTION  for one week,脈浮數;舌苔紅;,462,重度聽力咳嗽伴痰液鼻漏胸痛阻塞一周,脈浮數; 舌苔紅;
+109212,900524.0,2112.0,30528,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION for one week,脈浮數;舌苔白質紅; ph asthma for 2 years,462,咳痰鼻塞一星期,脈浮數; 舌苔白質紅; ph哮喘2年
+110582,900529.0,1706.0,05391,F,cough WIITH SPUTUM and slight sore thorat RHINORRHEA NASAL OBSTRUCTION  for 10 days,bp152/92 口乾;脈弦滑數;舌苔白質紅;,462,咳嗽有痰和輕微的喉嚨痛鼻塞鼻塞10天,bp152/92 口乾；脈弦滑數；舌苔白質紅；
+112863,900604.0,5310.0,67181,F,cough WIITH SPUTUM  AND SLIGHT SORE THORAT . HOARSENESS  HEADACH FOR 1 DAY,脈浮數;舌苔紅;,462,咳嗽有痰和輕微的喉嚨痛。聲音嘶啞頭痛1天,脈浮數; 舌苔紅;
+114115,900606.0,5611.0,45165,F,severe sore thorat since yesterday,脈浮數;舌苔白質紅;,462,從昨天開始喉嚨痛,脈浮數; 舌苔白質紅;
+114849,900601.0,5709.0,94518,F,cough WIITH YELLOWISH SPUTUM RHINORRHEA NASAL OBSTRUCTION FOR 5 DAYS .,脈弦滑數;舌苔白質紅;,462,咳黃痰鼻塞5天。,脈弦滑數；舌苔白質紅；
+116540,900611.0,2510.0,75560,F,RHINORRHEA NASAL OBSTRUCTION AND vertigo  for one week,"vwetigo  m-i for 4 years ago , dm for3-4 years",462,RHINORRHEA 鼻塞和眩暈 1 週,眩暈 m-i 4 年前，dm 3-4 年
+120616,900618.0,5502.0,83207,F,"cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION, for 2-3 days",脈浮數;舌苔白質紅;,462,咳嗽伴有痰液鼻塞，持續 2-3 天,脈浮數; 舌苔白質紅;
+122039,900622.0,2608.0,05892,M,"cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  and slight sore thorat , chest pain for 4 days",口乾;脈浮數;舌苔紅;,462,"咳嗽 痰 鼻塞 並 輕微 喉嚨 痛 , 胸痛 4 天",口乾; 脈浮數; 舌苔紅;
+122391,900620.0,3312.0,73097,M,cough WIITH SPUTUM  and itching over thorat off and on2-3 days,脈濡數;舌苔白質紅;,462,咳嗽咳痰和喉嚨發癢 2-3 天,脈濡數；舌苔白質紅；
+122861,900621.0,3907.0,42926,F,"itching over thorat , rhinorrhea    SINCE  YEESTERDAY.much dream and insomnia",脈弦滑數;舌苔紅;,462,從昨天開始喉嚨發癢，流鼻涕。匹配夢想和失眠,脈弦滑數；舌苔紅；
+124613,900627.0,7408.0,30312,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION FOR ONE WEEK VERTIGO,脈浮數;舌苔白;,462,咳嗽伴有痰液鼻塞 1 週眩暈,脈浮數; 舌苔白;
+124650,900628.0,8503.0,86311,F,rhinorrhea . nasal obstruction for 3 days ,舌苔白質紅; ,462,鼻漏。鼻塞三天,舌苔白質紅；
+125160,900628.0,8410.0,43140,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION   for 7 days,脈浮;舌苔紅;,462,咳痰鼻塞7天,脈浮; 舌苔紅;
+125636,900629.0,7710.0,72222,M,cough WIITHout  SPUTUM  and itching over thorat for 7 days,脈浮數;舌苔紅;,462,咳嗽無痰，喉嚨癢7天,脈浮數; 舌苔紅;
+127185,900703.0,8202.0,59313,M,"allergic rhinorritis  nasal obstruction 目癢; itching oveer nose off and on for 4-5 years, cough with sputum  ",脈浮;舌苔白質紅; ,462,過敏性鼻炎鼻塞目癢;鼻癢癢4-5年，咳痰,脈浮; 舌苔白質紅;
+128279,900628.0,8603.0,24274,M,rhinorrhea and nasal obstruction off and on 2-3 years ,舌苔白質紅; ,462,斷斷續續流鼻涕和鼻塞 2-3 年,舌苔白質紅；
+128371,900704.0,4303.0,02578,F,"vertigo ,cough without sputum .   SINCE  YEESTERDAY",脈細數;舌苔白質紅;,462,眩暈，咳嗽無痰。從昨天開始,脈細數; 舌苔白質紅;
+128970,900709.0,5406.0,01660,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION for 2 days,脈浮;舌苔白質紅; no asthma,462,咳痰鼻塞2天,脈浮; 舌苔白質紅;沒有哮喘
+130055,900706.0,4903.0,21093,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  FOR ONE WEEK,脈浮數;舌苔白質紅;,462,咳痰鼻塞一周,脈浮數; 舌苔白質紅;
+131321,900710.0,8302.0,75350,F,cough WIITH SPUTUM RHINORRHEA NASAL oSTRUCTION for 7 days,脈浮;舌苔白質紅;,462,咳痰鼻塞7天,脈浮; 舌苔白質紅;
+131604,900712.0,8507.0,45788,M,"fever for this morning, intermittent abdoinal pain around umbilicus,poor vegetable intake, stool passage hard always",舌紅苔薄白 脈浮數,462,今天早上發燒，肚臍周圍間歇性腹痛，蔬菜攝入量少，大便總是困難,舌紅苔薄白脈浮數
+131925,900716.0,5408.0,26410,M,"cough WIITH     SLIGHT SPUTUM  FOR 8 DAYS, AND ABDOMEN FULLNESS口乾;",脈浮數;舌苔紅;,462,咳嗽有輕微痰液 8 天，腹脹口乾；,脈浮數; 舌苔紅;
+133109,900710.0,8210.0,25601,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  for 2 days,脈浮;舌苔紅;,462,咳痰鼻塞2天,脈浮; 舌苔紅;
+134663,900719.0,7707.0,22845,M,rhinorrhea and nasal obstruction for one week  ,脈浮數;舌苔白質紅;,462,鼻漏鼻塞一星期,脈浮數; 舌苔白質紅;
+135967,900717.0,3001.0,95714,M,cough WIITH SPUTUM IN THE MIDNUIGHT  AND SORE THORAT FOR 3 DAYS,脈弦滑數;舌苔紅;,462,半夜咳痰，喉嚨痛3天,脈弦滑數；舌苔紅；
+136443,900720.0,1707.0,52320,F,"cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION , for one week, nausea vertigo",dm oveer 20 years 脈浮數;舌苔白質紅;,462,咳痰鼻塞，一星期，噁心眩暈,dm over 20 years 脈浮數;舌苔白質紅;
+136872,900723.0,4602.0,64693,F,cough WIITH SPUTUM RHINORRHEA since this moning,脈浮數;舌苔紅; 80 kg,462,從今天早上開始咳嗽有痰,脈浮數; 舌苔紅; 80 公斤
+144045,900808.0,1810.0,99010,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND SORE THORAT FOR 7 DAYS,脈濡數;舌苔白質紅;,462,咳痰鼻塞咽痛7天,脈濡數；舌苔白質紅；
+144129,900807.0,4009.0,89683,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND SLIGHT SORE THORAT FOR ONE DAY,脈浮數;舌苔紅;,462,咳痰鼻塞鼻塞輕微咽痛1天,脈浮數; 舌苔紅;
+144754,900808.0,1610.0,84390,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION FOR 2-3 WEEKS,脈浮;舌苔紅;,462,咳嗽伴有痰液鼻塞 2-3 週,脈浮; 舌苔紅;
+144898,900813.0,7312.0,24778,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION and sore thorat for 3 days,脈浮數;舌苔白質紅; 48 kg,462,咳嗽伴有痰液鼻塞和喉嚨痛 3 天,脈浮數; 舌苔白質紅; 48 公斤
+145388,900809.0,4202.0,12376,F,"VERTIGO , INSOMNIA , MUCH DREAM   cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION FOR ONE WEEK",脈沉;舌苔紅;,462,眩暈 失眠 多夢 咳嗽 痰 鼻漏 鼻塞 1 週,脈沉；舌苔紅；
+147446,900816.0,8410.0,66178,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  off and on for 2 weeks,脈浮;舌苔白質紅;,462,咳嗽伴有痰液鼻塞，斷斷續續持續 2 週,脈浮; 舌苔白質紅;
+147821,900816.0,4904.0,92229,F,cough WIITH SPUTUM  slight  sore thorat for one week,脈濡數;舌苔紅;,462,咳嗽有痰輕微喉嚨痛一個星期,脈濡數；舌苔紅；
+150214,900820.0,8904.0,32045,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  for one week,舌苔白質紅;,462,咳痰鼻塞一星期,舌苔白質紅；
+150627,900820.0,6410.0,35389,F,ITCHUING OVER THORAT AND SLIGHT SORE THORAT  cough WIITH SPUTUM RHINORRHEA FOR ONE WEEK,脈浮;舌苔白質紅;,462,喉嚨發癢和輕微的喉嚨痛咳嗽並伴有痰液鼻漏 1 週,脈浮; 舌苔白質紅;
+151692,900821.0,5307.0,09750,M,"cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  , FOR 2 DAYS",uric acid 9.7 HBSAG(+) 脈濡數;舌苔白質紅; ,462,咳痰鼻塞2天,尿酸 9.7 HBSAG(+) 脈濡數；舌苔白質紅；
+152619,900823.0,5007.0,11602,F,slight sore thorat for one day,脈浮數;舌苔白質紅;,462,喉嚨有點痛一天,脈浮數; 舌苔白質紅;
+153419,900825.0,5304.0,02531,M,"口乾, 口苦, 身癢, 有紅點, 身手脹緊麻, 多汗, 咽痛, 頭痛, 頭暈,久久坐足脹 項緊, 惡寒",右脈浮弦 左脈沉細   ,462,"口乾, 口苦, 身癢, 有紅點, 身手脹緊麻, 多汗, 咽痛, 頭痛, 頭暈,久久坐足脹 項緊, 惡寒",右脈浮弦 左脈沉細   
+155730,900828.0,1712.0,93935,F,SLIGHT cough WIITHOUT SPUTUM RHINORRHEA NASAL OBSTRUCTION  FOR 2 DAYS,脈浮;舌苔白質紅;,462,輕微咳嗽 2 天無痰液鼻塞,脈浮; 舌苔白質紅;
+157351,900830.0,7012.0,49098,F,"晨起打噴嚏, 流清涕, 鼻塞重 動則汗出, 涎痰多, 惡寒, 欲嘔, 咽乾 有血絲痰",左寸浮緩 右浮緊 舌淡紅苔薄,462,"晨起打噴嚏, 流清涕, 鼻塞重 動則汗出, 涎痰多, 惡寒, 欲嘔, 咽乾 有血絲痰",左寸浮緩 右浮緊 舌淡紅苔薄
+158672,900903.0,8803.0,30386,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION since yester day,舌苔白質紅;,462,從昨天開始咳嗽伴有痰液鼻塞,舌苔白質紅；
+160347,900911.0,5412.0,68872,F,"SORE THORAT .SPUTUM OVER THORAT , BURNED SENSATION SINCE LAST NIGHT, INSOMNIA 口乾; ",脈浮數;舌苔白質紅;HBSAG(+) ,462,"SORE THORAT .SPUTUM OVER THORAT , BURNED SENSATION SINCE LAST NIGHT, INSOMNIA 口乾; ",脈浮數;舌苔白質紅;HBSAG(+) 
+163967,900919.0,1908.0,40741,F,cough WIITHOUT SPUTUM RHINORRHEA NASAL OBSTRUCTION AND SLIGHR SORE THORAT SINCE YESTERDAY,脈浮數;舌苔白質紅;,462,從昨天開始咳嗽無痰流鼻涕鼻塞和輕微喉嚨痛,脈浮數; 舌苔白質紅;
+166622,900917.0,8609.0,73900,M,"cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION , constipation off and on for 2-3 days",舌苔紅;15kg,462,"咳嗽 痰 鼻塞 , 便秘 斷斷續續 2-3 天",舌苔紅;15kg
+171027,901005.0,4205.0,60468,M,"cough WIITHout SPUTUM RHINORRHEA NASAL OBSTRUCTION ,itching over thorat for 3 days",舌苔紅;脈浮數;,462,咳嗽無痰鼻塞，喉嚨癢3天,舌苔紅; 脈浮數;
+174224,901008.0,5912.0,35971,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  AND ITCHING OVER THORAT FOR  4 DAYS,脈浮;舌苔白質紅;,462,咳痰鼻塞鼻塞咽癢4天,脈浮; 舌苔白質紅;
+174483,901012.0,5309.0,86962,F,口乾;  cough WIITH OUT SPUTUM RHINORRHEA NASAL OBSTRUCTION AND  SLIGHT SORE HORAT  FOR 3 DAYS,脈濡數;目澀;舌苔白質紅;,462,口乾;咳嗽無痰流鼻涕鼻塞和輕微喉嚨痛3天,脈濡數;目澀;舌苔白質紅;
+177322,901015.0,5807.0,44755,F,cough WIITH MUCH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND ITCHING OVER THORAT,脈浮數;舌苔白質紅;,462,咳嗽多痰 鼻漏 鼻塞和喉嚨發癢,脈浮數; 舌苔白質紅;
+177919,901011.0,1504.0,24023,F,"VERTIFGO ,HEADACH OVER TEMPERAL AREA  SINCE YESTERDAY   cough WIITH SPUTUM  FOR ONE WEEK",BP110/90脈浮;舌苔白質紅;,462,眩暈，自昨天起，顳部頭痛，咳痰，持續一周,BP110/90 脈浮；舌苔白質紅；
+179228,901018.0,6303.0,24240,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION. and sore thorat  for 3 days,脈濡數;舌苔紅;,462,咳痰鼻塞。喉嚨痛3天,脈濡數；舌苔紅；
+179592,901024.0,2107.0,45963,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION ; slight itching over thorat for 10 days,脈浮;舌苔紅;,462,咳嗽伴有痰液鼻塞；喉嚨有點癢10天了,脈浮; 舌苔紅;
+180527,901025.0,6311.0,79027,M,"cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  , very thirsty  for3-4 days",脈浮;舌苔紅;,462,咳痰鼻塞，口渴3-4天,脈浮; 舌苔紅;
+181396,901029.0,3812.0,22709,F,"CHILLNESS , GENERAL MALISE  ,  SINCE YESTERDAY",脈浮;舌苔白質紅;,462,"CHILLNESS , GENERAL MALISE  ,  SINCE YESTERDAY",脈浮;舌苔白質紅;
+186443,901105.0,3101.0,44371,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  off and on for 2weeks and slight sore thorat,脈濡數;舌苔白質紅;,462,咳嗽伴有痰液鼻塞，斷斷續續持續 2 週，胸部輕微疼痛,脈濡數；舌苔白質紅；
+187125,901105.0,8505.0,45334,M,cough WIITH SPUTUM RHINORRHEA NASAL BSTRUCTION for one week,脈浮;舌苔白質紅;20kg,462,咳痰鼻塞一星期,脈浮;舌苔白質紅;20kg
+187698,901109.0,4809.0,29551,F,"cough WIITH SPUTUM OBSTRUCTION,slight sore thorat  for 2 days",口乾;脈浮數;舌苔紅;,462,咳痰，咽痛2天,口乾; 脈浮數; 舌苔紅;
+188433,901012.0,2008.0,17258,M,cough WIITH OUT SPUTUM RHINORRHEA NASAL OBSTRUCTION AND ITCHING OVER THORAT FOR 7 DAYS,脈浮;舌苔白質紅;,462,咳嗽無痰 鼻漏 鼻塞 喉嚨癢 7 天,脈浮; 舌苔白質紅;
+188863,901112.0,4002.0,25145,F,"insomnia  much dream  headach over temperal area , epigastric  off and on for 1.5 months   cough WIITHout SPUTUM RHINORRHEA NASAL OBSTRUCTION AND itching over thorat  and sore thorat  for one week",脈浮數;舌苔紅;,462,失眠 多夢 顳部 頭痛 上腹 斷斷續續 1.5 個月 咳嗽 無 痰 鼻漏 鼻塞 胸 癢 胸痛 1 週,脈浮數; 舌苔紅;
+190110,901112.0,8612.0,78218,M,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION for 3-4 days,脈浮;舌苔白質紅;17.5kg,462,咳嗽伴有痰液鼻塞 3-4 天,脈浮;舌苔白質紅;17.5kg
+191516,901113.0,4402.0,54785,F,"cough WIITHout SPUTUM , itching over thorat off and on for one week, vertigo",脈浮數;舌苔白質紅;transfer to  family doctor due to hypertension,462,咳嗽無痰，喉嚨癢一星期，眩暈,脈浮數；舌苔白質紅；因高血壓轉診給家庭醫生
+192115,901115.0,1910.0,57051,M,cough WIITH OUT SPUTUM RHINORRHEA NASAL OBSTRUCTIONAND DRY SORE THORAT  FOR 3-4 DAYS,脈浮;舌苔白質紅;,462,咳嗽無痰流鼻涕鼻塞咽乾痛3-4天,脈浮; 舌苔白質紅;
+193478,901119.0,5505.0,67525,F,"cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION ,sore thhorat  for 3-4 days, much dream",脈浮數;舌苔白質紅;,462,咳痰鼻塞，喉嚨痛3-4天，多夢,脈浮數; 舌苔白質紅;
+193581,901114.0,8603.0,82792,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  FOR 1-2 MONTHS,脈濡數;舌苔白質紅;,462,咳痰鼻塞1-2個月,脈濡數；舌苔白質紅；
+195592,901105.0,8602.0,89068,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  for one week,舌苔紅;15 kg,462,咳痰鼻塞一星期,舌苔紅;15 kg
+198351,901128.0,3011.0,26392,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND  slight sore thorat . headach  since yesterday,脈浮數;舌苔白質紅;,462,咳嗽 有 痰 鼻漏 鼻塞 和 輕微 的 喉嚨 痛 .從昨天開始就頭疼,脈浮數; 舌苔白質紅;
+198408,901203.0,6008.0,00878,F,cough without sputum rhinorrhea nasal obstruction sore thorat for 2-3 days,脈浮數;舌苔白質紅;,462,咳嗽無痰 鼻漏 鼻塞 咽痛 2-3 天,脈浮數; 舌苔白質紅;
+198497,901121.0,2812.0,58999,F,"cough WIITH YELLWISH SPUTUM RHINORRHEA NASAL OBSTRUCTION .SORE THORAT FOR 3-4 DAYS , HEADACH",脈浮數;舌苔白質紅;,462,咳嗽伴有淡黃色痰液鼻塞。胸痛 3-4 天，頭痛,脈浮數; 舌苔白質紅;
+198568,901121.0,2204.0,14306,M,ITCING OVER THORAT口乾; MUCH DREAM   cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION FOR 2-3 DAYS,脈濡數;舌苔紅; ,462,ITCHING OVER THORAT口乾；多夢咳痰鼻塞2-3天,脈濡數；舌苔紅；
+198822,901126.0,4511.0,07311,M,"INSOMNIA , MUCH DREAM.   SPUTUM RHINORRHEA NASAL OBSTRUCTION A , SLIGHT SORE THORAT FOR 2 DAYS",脈浮;舌苔白;,462,"INSOMNIA , MUCH DREAM.   SPUTUM RHINORRHEA NASAL OBSTRUCTION A , SLIGHT SORE THORAT FOR 2 DAYS",脈浮;舌苔白;
+199366,901203.0,2909.0,50434,F,"cough withOOUT sputum rhinorrhea nasal obstruction SORE THORAT, AND HEADACH OVER TEMPERAL AREA  FOR 2-3 DAYS",脈浮數;舌苔紅;,462,咳嗽無痰 鼻漏 鼻塞 胸痛，顳部頭痛 2-3 天,脈浮數; 舌苔紅;
+199876,901203.0,5312.0,88315,M,"cough with sputum rhinorrhea nasal obstruction, slight sore thorat for 2-3 days",口乾;口臭;脈浮;舌苔白質紅;,462,咳嗽有痰流鼻塞，喉嚨輕微痛2-3天,口乾；口臭；脈浮；舌苔白質紅；
+200674,901126.0,3703.0,99140,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION AND SLIGHT THORAT FOR 2-3 DAYS . LUMBAGO,脈濡數;舌苔白質紅;,462,咳痰 鼻塞 輕微 喉嚨 2-3 天 .腰痛,脈濡數；舌苔白質紅；
+201139,901130.0,2710.0,13652,F,"cough WIITH OUT SPUTUM RHINORRHEA NASAL OBSTRUCTION, ITCHING OVER THORAT FOR 3-4 DAYS",脈浮數;舌苔白質紅;,462,咳嗽無痰鼻塞，喉嚨癢3-4天,脈浮數; 舌苔白質紅;
+201817,901130.0,2701.0,60683,M,"sob off and on for 1-2 years , chest tight ness  cough with sputum rhinorrhea  for1-2 days and itching over thorat",somking over 30 years 脈濡數;舌苔白質紅;,462,斷斷續續啜泣1-2年，胸悶咳嗽帶痰流鼻涕1-2天，胸口癢。,吸煙超過 30 年 脈濡數；舌苔白紅；
+203387,901130.0,912.0,24484,F,"cough WIITH SPUTUM RHINORRHEA, slight sore thorat . itching over thorat  for 10 days",脈浮數;舌苔白質紅;,462,咳痰帶鼻，咽喉輕微痛。喉嚨癢10天了,脈浮數; 舌苔白質紅;
+205055,901203.0,5412.0,73988,M,"cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION, itching over thorat  for 3-4 days",脈浮數;舌苔白質紅;,462,咳嗽伴有痰液鼻塞，喉嚨發癢 3-4 天,脈浮數; 舌苔白質紅;
+205060,901203.0,5604.0,41593,F,cough WIITHout SPUTUM  and itching over thorat for 3-4 days,脈浮;舌苔白;,462,咳嗽無痰，喉嚨癢3-4天,脈浮; 舌苔白;
+206725,901203.0,8912.0,41493,F,cough WIITH SPUTUM RHINORRHEA NASAL OBSTRUCTION  for 2-3 days,舌苔白質紅;,462,咳痰鼻塞2-3天,舌苔白質紅；
+212702,901106.0,7908.0,77537,F,cough WIITH YELLOWISH SPUTUM RHINORRHEA AND ITCHING OVER THORAT   FOR 3-4 DAYS,脈浮數;舌苔白質紅;,462,咳嗽伴有黃色痰液鼻漏和喉嚨發癢 3-4 天,脈浮數; 舌苔白質紅;
+276259,910608.0,5205.0,22878,M,咽痛，吞嚥尤甚，無作嗽流涕生痰，二便平，食慾平，不頭暈頭痛。,脈浮數咽紅,462,咽痛，吞嚥尤甚，無作嗽流涕生痰，二便平，食慾平，不頭暈頭痛。,脈浮數咽紅
+315588,910816.0,5005.0,63429,F,"sneeze,rhinorrhea,cough for days 畏寒 喘 咽乾 無力感",脈細弱;舌苔白質紅;,462,打噴嚏、流鼻涕、咳嗽好幾天 畏寒 喘咽乾 無力感,脈細弱; 舌苔白質紅;
+426231,920123.0,5605.0,73461,F,severe sore thorat 口乾; for 1-2 days,脈浮;舌苔白質紅;,462,嚴重的喉嚨痛口乾; 1-2天,脈浮; 舌苔白質紅;
+1090729,940324.0,7401.0,65117,F,口腔潰瘍咽痛,脈數舌紅苔白,462,口腔潰瘍咽痛,脈數舌紅苔白
+2695312,980108.0,7911.0,75425,F,咽喉痛 咽紅 嘴破 口乾,舌紅 苔白 脈細弦,462,咽喉痛 咽紅 嘴破 口乾,舌紅 苔白 脈細弦
