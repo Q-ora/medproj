@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 
-df_symtom = pd.read_csv('./不重複病歷_篩選肺_單ICD.csv', dtype={'流水號': str, '診斷': str}, engine='python')  # dtype指定型別無效，之後須強制轉型
+df_symtom = pd.read_csv('./不重複病歷_呼吸道_單ICD.csv', dtype={'流水號': str, '診斷': str}, engine='python')  # dtype指定型別無效，之後須強制轉型
 df_icd9 = pd.read_csv('./ICD9整數.csv', dtype={'ICD-9': str, '中文傷病名稱': str})
 
 # 建立目錄存放每個表格

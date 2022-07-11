@@ -3,7 +3,7 @@ from tqdm import tqdm
 from tqdm import trange
 
 
-df_symtom = pd.read_csv('./不重複病歷_翻譯.csv', dtype={'流水號': str, '診斷': str}, engine='python')  # dtype指定型別無效，之後須強制轉型
+df_symtom = pd.read_csv('./不重複標準化.csv', dtype={'流水號': str, '診斷': str}, engine='python')  # dtype指定型別無效，之後須強制轉型
 df_icd9 = pd.read_csv('./ICD9整數.csv', dtype={'ICD-9': str, '中文傷病名稱': str})
 
 # 過濾掉'診斷'是NaN的病例
@@ -35,6 +35,6 @@ for row, _ in tqdm(new_df_symtom.iterrows(), total=new_df_symtom.shape[0]):
 # 篩選肺的所有病歷的'診斷'欄位的icd9已改成str list格式
 #   "460/786.2///"  =>  "460 786.2"
 # 
-new_df_symtom.to_csv('./不重複病歷_篩選肺.csv', index=False)
-df_symtom_singicd.to_csv('./不重複病歷_篩選肺_單ICD.csv', index=False)
-df_symtom_multicd.to_csv('./不重複病歷_篩選肺_多ICD.csv', index=False)
+new_df_symtom.to_csv('./不重複病歷_呼吸道.csv', index=False)
+df_symtom_singicd.to_csv('./不重複病歷_呼吸道_單ICD.csv', index=False)
+df_symtom_multicd.to_csv('./不重複病歷_呼吸道_多ICD.csv', index=False)
