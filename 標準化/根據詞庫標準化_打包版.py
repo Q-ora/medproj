@@ -27,7 +27,7 @@ def standard(sentence):
         dic_simple[sym[1][0]]={
             '詞':sym[1][1],
         }
-    dic_simple={k:v for k, v in sorted(dic_simple.items(),key=lambda item: item[0])}
+    dic_simple={k:v for k, v in sorted(dic_simple.items(), key=lambda item: len(item[1]['詞']), reverse=True)}
 ##########################################
     for ind in dic_simple:
         #根據ind，將原始症狀取出
@@ -36,7 +36,7 @@ def standard(sentence):
             #完成字數
             end+=len(s)
             #症狀句
-            sentence = sentence.replace(s,'_')
+            # sentence = sentence.replace(s,'_')
             std=dic_dict['標準症狀'][ind]
             string=string+std
     sym_list=list(set(string.split('。')[:-1]))
@@ -64,7 +64,9 @@ rule = re.compile(u"[^\u4e00-\u9fa50-9０-９]")
 rule2 = re.compile(u'[0-9０-９]{3,}')
 
 #讀詞庫，前處理
-df_dic=pd.read_csv('./詞庫.csv',index_col=0)
+df_dic=pd.read_csv('./系統詞庫.csv',index_col=0)
+df_dic.rename(columns={'原始症狀':'詞'}, inplace=True)
+df_dic['詞長度']=df_dic[['詞']].applymap(lambda x: len(str(x)))
 df_dic['詞']=df_dic['詞'].str.replace('痠','酸')
 df_dic['詞']=df_dic['詞'].str.replace('饑','飢')
 df_dic['詞']=df_dic['詞'].str.replace('粘','黏')
@@ -77,7 +79,7 @@ df_dic['詞']=df_dic['詞'].str.replace('炫','眩')
 df_dic['詞']=df_dic['詞'].str.replace('食欲','食慾')
 df_dic['詞']=df_dic['詞'].str.replace('性慾','性欲')
 df_dic['詞']=df_dic['詞'].str.replace('癡','痴')
-df_dic.to_csv('./詞庫.csv')
+df_dic.to_csv('./系統詞庫.csv')
 # #讀五群症狀庫，前處理
 # df_symtom=pd.read_csv('./資料/五群症狀轉換表.csv',converters={'同義症狀':eval})
 # print(df_symtom.info())
@@ -113,9 +115,9 @@ df_all['中文症狀和']=df_all['中文症狀和'].str.replace('癡','痴')
 print(df_all.info())
 ##df_all.drop_duplicates(subset=['病歷號'],inplace=True)
 #####################################################
-df_dic.sort_values(by=['長度'],ignore_index=True,inplace=True,ascending=False)
+# df_dic.sort_values(by=['長度'],ignore_index=True,inplace=True,ascending=False)
 df_dic.fillna('',inplace=True)
-dic_dict=df_dic.to_dict()
+dic_dict=df_dic.to_dict()  # {column -> {index -> value}}
 AC = ac.Automaton()
 print(df_dic.info())
 for ind in df_dic.index:
@@ -131,9 +133,9 @@ total_ch=0
 #print(df_all.head(1))
 df_all['標準症狀t']=df_all['中文症狀和'].apply(standard)
 df_all['標準症狀']=df_all['標準症狀t'].apply(lambda t:t[0])
-df_all['剩餘句']=df_all['標準症狀t'].apply(lambda t:t[1])
+# df_all['剩餘句']=df_all['標準症狀t'].apply(lambda t:t[1])
 df_all.drop(columns=['標準症狀t'],inplace=True)
-df_all['剩餘字數']=df_all['剩餘句'].apply(lambda s:len(s))
+# df_all['剩餘字數']=df_all['剩餘句'].apply(lambda s:len(s))
 len_std_total=0
 for std_s in df_all['標準症狀'].to_list():
     for sen in std_s:
@@ -146,7 +148,7 @@ print('中文完成度:',end,'/',total_ch,round(end/total_ch,2))
 
 df_all.to_csv('./不重複標準化.csv')
 df_all.sort_values(by=['流水號'])
-df_all[df_all['剩餘字數']==0].to_csv('./完全標準化病歷.csv')
+# df_all[df_all['剩餘字數']==0].to_csv('./完全標準化病歷.csv')
 # #將統計後的症狀次數移到dictionary中
 # for sym in symtom_num_dic.keys():
 #     symtom_num_dic[sym]=symtom_num_total_dic.get(sym,0)

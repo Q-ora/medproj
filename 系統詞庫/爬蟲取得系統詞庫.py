@@ -71,6 +71,7 @@ for i in range(len(result4_dict['data'])): # result4_dict['data'] is a list
         '原始症狀': result4_dict['data'][i]['original_symptoms'],
         '標準症狀': result4_dict['data'][i]['standard_symptoms'],
     }
+    symptom_table_dict[i]['標準症狀'] = symptom_table_dict[i]['標準症狀'] + '。' # 加上句號方便標準化
 symptom_table_df = pd.DataFrame.from_dict(symptom_table_dict, orient='index')
 print(symptom_table_df)
 symptom_table_df.to_csv('./系統詞庫.csv')
