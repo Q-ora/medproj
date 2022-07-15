@@ -31,9 +31,18 @@ for filename in os.listdir(homedir):
     syd_dict = {}
     df_symtom[['標準症狀']].apply(frequency, axis=1)
     # 計算占比
-    n = sum(v[0] for k, v in syd_dict.items())
+    n_old = sum(v[0] for k, v in syd_dict.items())
+    n_new = n_old
+    # 去除掉占比很低的症狀
+    old_keys = list(syd_dict.keys())
+    for syd in old_keys: 
+        syd_dict[syd][1] = syd_dict[syd][0] / n_old
+        if syd_dict[syd][1] < 0.001:
+            n_new -= syd_dict[syd][0]
+            del syd_dict[syd]
+    # 重新計算占比
     for syd in syd_dict.keys():
-        syd_dict[syd][1] = syd_dict[syd][0] / n
+        syd_dict[syd][1] = syd_dict[syd][0] / n_new
         syd_dict[syd][1] = round(syd_dict[syd][1], 4)
 
     print('=========================', filename, '=========================', sep='')
